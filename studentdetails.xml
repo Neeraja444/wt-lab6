@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="studentdetails.xsl"?>
+<!DOCTYPE student  SYSTEM "studentdetail.dtd">
+<student>
+<students>
+ <name> Neeraja </name>
+ <age> 20 </age>
+ <marks> 30 </marks>
+</students>
+<students>
+ <name> Raj </name>
+ <age> 15 </age>
+ <marks> 40 </marks>
+ </students>
+<students>
+ <name> chan </name>
+ <age> 21 </age>
+ <marks> 50 </marks>
+</students>
+<students>
+ <name> Aravind </name>
+ <age> 22 </age>
+ <marks> 60 </marks>
+</students>
+<students>
+ <name> jal</name>
+ <age> 22 </age>
+ <marks> 70 </marks>
+</students>
+<students>
+ <name> Munju </name>
+ <age> 22 </age>
+ <marks> 80 </marks>
+</students>
+</student>
